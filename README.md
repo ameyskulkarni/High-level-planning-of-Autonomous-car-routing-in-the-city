@@ -1,0 +1,2 @@
+# High-level-planning-of-Autonomous-car-routing-in-the-city
+The program deploys a decision making algorithm to run an autonomous car in the city. This car acts as a taxi and customers will request for the car from throughout the city. The car can also get dynamic requests during its motion. The system plans the sequence of how it should collect or drop the customers. It also has a visualization for better understanding.
